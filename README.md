@@ -1,3 +1,4 @@
+ HEAD
 # AI Internship Simulator
 
 ### Practicing real internship tasks to bridge the gap between learning and experience
@@ -152,3 +153,6 @@ Kashish Gandharv
 AI Internship Simulator bridges the gap between learning and real industry experience by providing a virtual internship environment powered by artificial intelligence.
 
 This platform helps students become **industry-ready before entering the job market.**
+# ai-intership-stimulator
+this website fullfill gap between industry knowledge to fresher 
+ d46e3647196d44886c753a2f7c30ea73cef5dae1
